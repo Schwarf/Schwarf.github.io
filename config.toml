@@ -1,0 +1,8 @@
+baseURL = "https://schwarf.github.io/"
+languageCode = "en-us"
+title = "Welcome to the website of Andreas Scharf"
+theme = "ananke"
+paginate = 5
+
+[params]
+  description = "Software Developer and Theoretical Physicist"

@@ -1,0 +1,16 @@
+# Don't track generated site output
+/public/
+/resources/
+
+# Hugo lock file
+.hugo_build.lock
+
+# Editor/project folders
+.idea/
+.vscode/
+.DS_Store
+
+# Optional: OS/backup files
+*.swp
+*.bak
+*.tmp
