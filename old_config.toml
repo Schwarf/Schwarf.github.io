@@ -1,7 +1,7 @@
-baseURL = "https://schwarf.github.io/"
+baseURL = "https://Schwarf.github.io/"
 languageCode = "en-us"
 title = "Welcome to the website of Andreas Scharf"
-theme = "ananke"
+theme = "nice"
 [pagination]
   pagerSize = 2
 [params]
