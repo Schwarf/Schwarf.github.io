@@ -135,12 +135,12 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Andreas."
-    subtitle: "Engineering robust solutions with C++ and Python."
-    content: "I specialize in performance-critical solutions in C++ and Python, bringing clarity and efficiency to complex problems."
+    subtitle: "Turning complex problems into efficient code."
+    content: "Software developer and physicist focused on crafting elegant solutions to challenging problems."
     image: /images/me.jpg
     bottomImage:
       enable: true
-    # roundImage: true # Make hero image circular | default false
+      roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Resume"
