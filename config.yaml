@@ -151,11 +151,11 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/Schwarf
-        - icon: fab fa-x-twitter
-          url: https://example.com
       customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+        - icon: /images/leetcode.png
+          url: "https://leetcode.com/u/schara6/"
+        - icon: /images/linkedIn.svg
+          url: "https://www.linkedin.com/in/andreas-scharf-5659a3223/"
 
   # About
   about:
@@ -178,7 +178,7 @@ params:
         - "Git"
         - "Linux (Ubuntu)"
         - "Go (Beginner)"
-        - "Graph Algorithms & Networkit"
+        - "Graph Algorithms"
 
   # Experience
   experience:
