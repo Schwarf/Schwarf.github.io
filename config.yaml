@@ -186,16 +186,22 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
+      - job: "Senior Software Developer & Research Engineer"
         company: "Bosch"
         companyUrl: ""
-        date: "Okt 2023 - present"
-        featuredLink:
-          enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-
+        date: "Apr 2018 - present"
+#        featuredLink:
+#          enable: true
+#          name: "View the project"
+#          url: "https://example.com"
+        content: |- 
+          <pre>
+          
+          04/2018 - 10/2021: Developed deep-learning based pollution detection for Lidar sensors (python, C++)
+          11/2021 - 11/2022: Build automated data-loop toolchain for multi-sensor labeling (python, C++, Azure)
+          12/2021 - 09/2023: Implemented GPS-based route prediction in driver assistance system (python, C++)
+          10/2023 - present: Optimized C++ base library for real-time performance (python, C++)
+          </pre>
       - job: "Software Developer"
         company: "Amazon"
         companyUrl: "https://example.com"
